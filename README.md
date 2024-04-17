@@ -1,6 +1,8 @@
 # Olá, Mundo!
  Primeiro Repositorio Versionado de Git e Github
+$\color{red}{\textsf{     Repositório criado durante uma aula ao vivo  }}$
 
- Repositório criado durante uma aula ao vivo
+
+ $\color{blue}{\textsf{   Essa linha eu adicionei remotamente   }}$
  
- Essa linha eu adicionei remotamente
+
